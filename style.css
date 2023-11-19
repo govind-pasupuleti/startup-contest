@@ -95,7 +95,7 @@ li{
 }
 .form-words{
     height: 82px;
-    width: 1470px;
+    width: 90%;
     top:913px;
     left:63px;
     border:2px solid #FCAF02;
@@ -112,20 +112,21 @@ li{
 }
 .words{
     height: 82px;
-    width: 700px;
+    width: 40%;
     border:2px solid #FCAF02;
     color: #FCAF02;
     border-radius: 40px;
     text-align: left;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     padding-left: 30px;
+    margin-inline: 30px;
 }
 .form-words-details{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    
 }
 .fb{
     margin-top: 20px;
