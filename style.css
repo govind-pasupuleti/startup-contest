@@ -83,7 +83,7 @@ li{
 .form-page{
  height: 100vh;
  width: 100vw;
-
+background-color: black;
 }
 .contact-heading{
     font-weight: bolder;
